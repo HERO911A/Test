@@ -20,4 +20,4 @@ requests>=2.32.3
 nuitka==2.8.9
 ruff>=0.14.10
 zstandard==0.25.0
-cysimdjson==24.12
+cysimdjson==23.7
